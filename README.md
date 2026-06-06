@@ -52,6 +52,8 @@ npx http-server
 - 原生 JavaScript (ES6+)
 - CSS3
 
-## 📄 许可证
 
-MIT License
+第一次在github上传项目，打卡打卡！
+--2026年6月6日17点26分
+
+
