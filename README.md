@@ -44,7 +44,7 @@ npx http-server
 
 ## 📸 截图
 
-![游戏截图](screenshot.png)
+![游戏截图](游戏界面.png)
 
 ## 🛠️ 技术栈
 
